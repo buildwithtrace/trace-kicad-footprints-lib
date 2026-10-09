@@ -162,7 +162,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "Dwgs.User")
 		(uuid "2f05fd14-5f11-4727-b82f-3500a0f04cfd")
 	)
 	(fp_line
